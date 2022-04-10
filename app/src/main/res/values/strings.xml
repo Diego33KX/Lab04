@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="editar">Editar</string>
+    <string name="llamar">Llamar</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="telefono">Telefono:</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="datos_del_usuario">DATOS DEL USUARIO</string>
+    <string name="nombre">NOMBRE:</string>
+    <string name="correo">CORREO:</string>
+    <string name="oficina">OFICINA:</string>
+    <string name="phone">TELEFONO:</string>
+    <string name="name">Nombre:</string>
+    <string name="nombreuser">Diego Flores Jara</string>
+    <string name="email">Correo :</string>
+    <string name="correouser">flores2001diego@gmail.com</string>
+    <string name="office">Oficina :</string>
+    <string name="officeuser">Lurigancho Chosica</string>
+    <string name="numerouser">973732474</string>
+</resources>
